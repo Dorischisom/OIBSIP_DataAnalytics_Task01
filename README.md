@@ -85,6 +85,8 @@ A typical McDonald's value meal, as defined above, contains approximately **1113
 ### Code Used:
 ```import pandas as pd
 
+### Code Used:
+```python
 # Load the dataset
 df = pd.read_csv('Mc_Donald_Nutritional_Value_Data.csv')
 
@@ -106,7 +108,8 @@ average_value_meal_calories = average_main_item_calories + average_fries_calorie
 print(f"Average Calories for Main Item: {average_main_item_calories:.2f}")
 print(f"Average Calories for Fries: {average_fries_calories:.2f}")
 print(f"Average Calories for Drinks: {average_beverage_calories:.2f}")
-print(f"The average McDonald's value meal contains approximately {average_value_meal_calories:.2f} calories.")```
+print(f"The average McDonald's value meal contains approximately {average_value_meal_calories:.2f} calories.")
+
 
 
 ### Question 2: How much do beverages, like soda or coffee, contribute to the overall caloric intake?
@@ -115,12 +118,11 @@ print(f"The average McDonald's value meal contains approximately {average_value_
 Beverages (soda, coffee, tea) contribute significantly to the overall caloric intake of a value meal. On average, they account for approximately 25.50% of the total calories in an average McDonald's value meal.
 
 ### Code Used:
-```# Calculate percentage contribution of beverages to the entire value meal
+# Calculate percentage contribution of beverages to the entire value meal
 beverage_contribution_percentage = (average_beverage_calories / average_value_meal_calories) * 100
 
 print(f"Beverages (soda, coffee, tea) have an average of {average_beverage_calories:.2f} calories.")
 print(f"Compared to the average McDonald's Value Meal, which contains approximately {average_value_meal_calories:.2f} calories, beverages contribute about {beverage_contribution_percentage:.2f}% to the overall caloric intake of that meal.")
-```
 
 ### Question 3: Does ordered grilled chicken instead of crispy increase a sandwich's nutritional value?
 
