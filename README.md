@@ -38,18 +38,17 @@ The analysis utilizes the `Mc_McDonald_Nutritional_Value_Data.csv` dataset. This
 
 - [Project Goal & Questions](#project-goal--questions)
 - [Methodology](#methodology)
+- [Dataset Overview](#dataset-overview)
 - [Analysis & Findings](#analysis--findings)
-    - [Question 1: Average Calories for a McDonald's Value Meal](#question-1-average-calories-for-a-mcdonalds-value-meal)
-    - [Question 2: Beverage Contribution to Overall Caloric Intake](#question-2-beverage-contribution-to-overall-caloric-intake)
-    - [Question 3: Grilled vs. Crispy Chicken Nutritional Comparison](#question-3-grilled-vs-crispy-chicken-nutritional-comparison)
-    - [Question 4: Whole Egg vs. Egg White Nutritional Comparison](#question-4-whole-egg-vs-egg-white-nutritional-comparison)
-    - [Question 5: Least Number of Items for Nutritional Requirements](#question-5-least-number-of-items-for-nutritional-requirements)
+    - [Question 1: How many calories does the average McDonald's value meal contain?](#question-1-how-many-calories-does-the-average-mcdonalds-value-meal-contain)
+    - [Question 2: How much do beverages, like soda or coffee, contribute to the overall caloric intake?](#question-2-how-much-do-beverages-like-soda-or-coffee-contribute-to-the-overall-caloric-intake)
+    - [Question 3: Does ordered grilled chicken instead of crispy increase a sandwich's nutritional value?](#question-3-does-ordered-grilled-chicken-instead-of-crispy-increase-a-sandwichs-nutritional-value)
+    - [Question 4: What about ordering egg whites instead of whole eggs?](#question-4-what-about-ordering-egg-whites-instead-of-whole-eggs)
+    - [Question 5: What is the least number of items could you order from the menu to meet one day's nutritional requirements?](#question-5-what-is-the-least-number-of-items-could-you-order-from-the-menu-to-meet-one-days-nutritional-requirements)
 - [Technologies Used](#technologies-used)
 - [How to Run the Analysis (Optional)](#how-to-run-the-analysis-optional)
 - [Conclusion](#conclusion)
-- [Author](#author)
-- [License](#license)
-
+  
 
 ## Project Goal & Questions
 
