@@ -119,7 +119,8 @@ Beverages (soda, coffee, tea) contribute significantly to the overall caloric in
 beverage_contribution_percentage = (average_beverage_calories / average_value_meal_calories) * 100
 
 print(f"Beverages (soda, coffee, tea) have an average of {average_beverage_calories:.2f} calories.")
-print(f"Compared to the average McDonald's Value Meal, which contains approximately {average_value_meal_calories:.2f} calories, beverages contribute about {beverage_contribution_percentage:.2f}% to the overall caloric intake of that meal.")```
+print(f"Compared to the average McDonald's Value Meal, which contains approximately {average_value_meal_calories:.2f} calories, beverages contribute about {beverage_contribution_percentage:.2f}% to the overall caloric intake of that meal.")
+```
 
 ### Question 3: Does ordered grilled chicken instead of crispy increase a sandwich's nutritional value?
 
