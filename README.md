@@ -4,7 +4,7 @@ This project analyzes the nutritional data of McDonald's menu items to uncover i
 
 ## Dataset Overview
 
-The analysis utilizes the `Mc_McDonald_Nutritional_Value_Data.csv` dataset. This dataset contains comprehensive nutritional information for various menu items. Below are the key columns and their descriptions:
+The analysis utilizes the `Mc_McDonald_Nutritional_Value_Data.xls` dataset. This dataset contains comprehensive nutritional information for various menu items. Below are the key columns and their descriptions:
 
 | Column Name            | Description                                                                 |
 |:-----------------------|:----------------------------------------------------------------------------|
@@ -177,3 +177,5 @@ However, based on a qualitative assessment of the McDonald's menu items and comm
 * While it's challenging to meet a full day's nutritional needs with the fewest possible items from a fast-food menu, a combination of 2-3 thoughtfully chosen items (e.g., a substantial main meal, a side like a salad or fruit, and a nutrient-rich beverage) would be a more realistic approach than relying on a single item.
 
 While fast food may not be designed for comprehensive nutrition, understanding these differences can help consumers make more informed choices. To meet full daily nutritional requirements with the fewest items, one would likely need a combination of a substantial main item, a side like a salad or fruit, and a nutrient-rich beverage to cover a wide range of vitamins, minerals, and fiber.
+
+### View Full Analysis in  `Mc_McDonald_Nutritional_Value_Data.html`
