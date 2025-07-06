@@ -164,9 +164,7 @@ However, based on a qualitative assessment of the McDonald's menu items and comm
 ## Technologies Used
 * **Python:** Programming language used for analysis.
 * **Pandas:** Python library for data manipulation and analysis.
-* **Jupyter Notebook:** (Optional, if you use a notebook for development) For interactive development and presentation.
-
-
+* **Jupyter Notebook:** For interactive development and present
 
 
 
